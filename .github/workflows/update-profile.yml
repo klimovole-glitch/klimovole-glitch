@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: '3.10'
       - name: Generate Art
-        run: python scripts/generate.py
+        run: python scripts/generate.py --demo
       - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
