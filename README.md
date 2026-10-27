@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- 1. Баннер (в стиле ГП) -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,50:3b2b1a,100=c19b3b&height=200&section=header&text=PYTHON&fontSize=90&fontColor=e0c070&animation=fadeIn&fontAlignY=50&desc=THE+NORTH+REMEMBERS&descAlignY=75&descSize=20&descColor=b0b0b0" width="100%"/>
+<!-- 1. Анимированный баннер (мерцающий градиент) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b2b1a,100=c19b3b&height=200&section=header&text=PYTHON&fontSize=90&fontColor=e0c070&animation=twinkling&fontAlignY=50&desc=THE+NORTH+REMEMBERS&descAlignY=75&descSize=20&descColor=b0b0b0" width="100%"/>
 
 <br><br>
 
-<!-- 2. Анимированная строка (транслит, без пробелов) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C19B3B&center=true&vCenter=true&width=600&lines=YARIK+TOP+VAIBKODER;NEMKI+TOP;WINTER+IS+COMING" alt="Typing SVG" />
+<!-- 2. Анимированный текст (Печатная машинка, латиница) -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&pause=1000&color=C19B3B&center=true&vCenter=true&width=600&lines=YARIK+TOP+VAIBKODER;NEMKI+TOP;WINTER+IS+COMING" alt="Typing SVG" />
 
 <br><br>
 
-<!-- 3. Стек технологий -->
+<!-- 3. Стек технологий (иконки покачиваются при наведении) -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -20,7 +20,7 @@
 
 <br>
 
-<!-- 4. Флагманский проект -->
+<!-- 4. Флагманский проект (подсвечивается) -->
 ### 🐺 Флагманский проект
 
 <div align="center">
@@ -40,9 +40,9 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimovole-glitch&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=C19B3B&text_color=a9a9a9&langs_count=6" />
 </div>
 
-<br><br>
+<br>
 
-<!-- 6. Подвал -->
+<!-- 6. Анимированный подвал (волны) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3b2b1a,50:1a1a1a,100:000000&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2b1a,50:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
 </div>
