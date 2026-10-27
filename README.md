@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- 1. Баннер -->
+<!-- 1. Баннер (работает стабильно) -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,50:3b2b1a,100=c19b3b&height=200&section=header&text=PYTHON&fontSize=90&fontColor=e0c070&animation=fadeIn&fontAlignY=50&desc=THE%20NORTH%20REMEMBERS&descAlignY=75&descSize=20&descColor=b0b0b0" width="100%"/>
 
-<br>
-
-<!-- 2. Бегущая строка с кириллицей -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&pause=1500&color=C19B3B&center=true&vCenter=true&width=600&lines=ЯРИК+ТОП+ВАЙБКОДЕР;НЭМКИ+ТОП;ЗИМА+БЛИЗКО" alt="Typing SVG" />
-
 <br><br>
+
+<!-- 2. Статичный текст вместо анимации (в стиле ГП) -->
+<h2>⚔️ ЯРИК ТОП ВАЙБКОДЕР ⚔️</h2>
+<h3>🐺 НЭМКИ ТОП 🐺</h3>
+<p><i>Winter is coming...</i></p>
+
+<br>
 
 <!-- 3. Стек технологий -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,7 +23,7 @@
 <br>
 
 <!-- 4. Флагманский проект -->
-### 🐺 Флагманский проект
+###  проект
 
 <div align="center">
   <a href="https://github.com/klimovole-glitch/KeyTranier">
