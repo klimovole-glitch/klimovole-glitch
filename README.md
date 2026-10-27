@@ -1,62 +1,136 @@
-<div align="center">
+# Paper Signal — Setup Guide
 
-<!-- 1. Баннер -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:3b2b1a,100=c19b3b&height=200&section=header&text=PYTHON&fontSize=90&fontColor=e0c070&animation=twinkling&fontAlignY=50&desc=THE+NORTH+REMEMBERS&descAlignY=75&descSize=20&descColor=b0b0b0" width="100%"/>
+This template creates the bright editorial profile shown in this folder. It generates the cover and work-index SVGs from one configuration file and your public GitHub data.
 
-<br><br>
+## Fastest setup
 
-<!-- 2. Анимация печатной машинки (транслит) -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&pause=1000&color=C19B3B&center=true&vCenter=true&width=600&lines=YARIK+TOP+VAIBKODER+NEMKI;" alt="Typing SVG" />
+1. Create a public repository named exactly like your GitHub username.
+2. Copy **the contents** of `Paper-Signal` into it.
+3. Edit `config.json` and the three contact links in `README.md`.
+4. Run `python scripts/generate.py --demo`.
+5. Push the repository and run the included GitHub Action once.
 
-<br><br>
+## Requirements
 
-<!-- 3. Пульсирующие иконки технологий (анимация пульса) -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+- A GitHub account
+- Python 3.10 or newer for local generation
+- Git, GitHub Desktop, or GitHub’s web uploader
 
-</div>
+No Python packages or paid services are required.
 
-<br>
+## 1. Create your profile repository
 
-<!-- 4. ЛЕТАЮЩИЙ ДРАКОН (гифка) -->
-<div align="center">
-  <img src="https://media.tenor.com/1GfB6m7mB6AAAAAj/dragon-flying.gif" alt="Dragon" width="150" />
-</div>
+Create a **public** repository whose name exactly matches your GitHub username. Its root `README.md` becomes your GitHub profile README.
 
-<br>
+## 2. Copy the template
 
-<!-- 5. Флагманский проект -->
-### 🐺 Флагманский проект
+Copy everything **inside** `Paper-Signal` into the repository root:
 
-<div align="center">
-  <a href="https://github.com/klimovole-glitch/KeyTranier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klimovole-glitch&repo=KeyTranier&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=C19B3B&text_color=a9a9a9" />
-  </a>
-</div>
+```text
+your-username/
+├── .github/workflows/update-profile.yml
+├── assets/
+│   ├── cover.svg
+│   └── folio.svg
+├── scripts/generate.py
+├── config.json
+├── README.md
+└── SETUP.md
+```
 
-<br>
+Important: `.github` may be hidden. Copy it or scheduled updates will not work.
 
-<!-- 6. Анимированная змейка, поедающая коммиты -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
-</div>
+## 3. Personalize `config.json`
 
-<br>
+Replace every example value:
 
-<!-- 7. Статистика -->
-### ⚔️ Статистика GitHub
+- `username`: your exact GitHub username
+- `name` and `monogram`: your name and 1–3 initials
+- `edition`: any short edition number such as `01`
+- `role`, `location`, and `statement`: your profile introduction
+- `website`: a short website label displayed on the cover
+- `availability`: your current availability message
+- `services`: four short services or specialties
+- `featured_repos`: up to three exact public repository names
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=klimovole-glitch&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=C19B3B&icon_color=C19B3B&text_color=a9a9a9&count_private=true" />
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimovole-glitch&layout=compact&theme=gruvbox&hide_border=true&bg_color=1a1a1a&title_color=C19B3B&text_color=a9a9a9&langs_count=6" />
-</div>
+Keep the statement and service names concise so they fit the editorial layout. Missing featured repositories are replaced automatically with your highest-starred public repositories.
 
-<br>
+## 4. Update the contact buttons
 
-<!-- 8. Подвал -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2b1a,50:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
-</div>
+Near the bottom of `README.md`, replace the portfolio, GitHub, and email URLs. Remove buttons you do not need.
+
+## 5. Generate the artwork
+
+From the repository root, create an offline preview:
+
+```bash
+python scripts/generate.py --demo
+```
+
+Then generate with live GitHub data:
+
+```bash
+python scripts/generate.py
+```
+
+The live command needs internet access. If local requests are rate-limited, use the GitHub Action instead.
+
+## 6. Preview the result
+
+- Open `README.md` in VS Code and press `Ctrl+Shift+V`.
+- Push to GitHub for the most accurate rendering.
+
+Do not rename `assets/cover.svg` or `assets/folio.svg` unless their paths are also changed in `README.md`.
+
+## 7. Enable automatic updates
+
+Push the repository and open **Actions → Update Paper Signal → Run workflow**. The scheduled workflow refreshes the assets every Monday and Thursday.
+
+If the Action cannot commit:
+
+1. Open **Settings → Actions → General**.
+2. Under **Workflow permissions**, select **Read and write permissions**.
+3. Save and rerun the workflow.
+
+## Customize the colors
+
+Edit the constants near the top of `scripts/generate.py`:
+
+```python
+PAPER = "#f3eedf"
+INK = "#171717"
+BLUE = "#2348f5"
+CORAL = "#ff6559"
+LIME = "#c8ef54"
+```
+
+Rerun the generator after every design or content change.
+
+## AI-assisted setup prompt
+
+Copy this prompt into a coding assistant while your profile repository is open:
+
+```text
+Set up the Paper Signal GitHub profile template in this repository for me.
+
+My details:
+- GitHub username: [USERNAME]
+- Full name: [NAME]
+- Monogram or initials: [INITIALS]
+- Role: [ROLE]
+- Location: [LOCATION]
+- Short personal statement: [STATEMENT]
+- Website label and URL: [WEBSITE]
+- Availability: [AVAILABILITY]
+- Four services or specialties: [SERVICES]
+- Featured repositories, maximum 3: [REPOSITORIES]
+- Contact email: [EMAIL]
+
+Please inspect the repository first. Update config.json and the links in README.md, keep all text short enough for the existing editorial layout, preserve the Paper Signal design and animations, generate the SVG assets, validate the SVG files and local Markdown links, and verify the workflow location. Use demo generation first and live generation if internet access is available. Do not change unrelated files, and do not commit or push unless I explicitly ask.
+```
+
+## Common problems
+
+- **Text is clipped:** shorten `statement`, `services`, or repository descriptions.
+- **Artwork is missing:** run the generator and commit the generated SVG files.
+- **The Action is unavailable:** confirm `.github/workflows/update-profile.yml` exists on the default branch.
