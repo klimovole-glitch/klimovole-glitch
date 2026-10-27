@@ -6,7 +6,7 @@
 <br><br>
 
 <!-- 2. Анимация печатной машинки (транслит) -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&pause=1000&color=C19B3B&center=true&vCenter=true&width=600&lines=YARIK+TOP+VAIBKODER+NEMKI;WINTER+IS+COMING" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&pause=1000&color=C19B3B&center=true&vCenter=true&width=600&lines=YARIK+TOP+VAIBKODER+NEMKI;" alt="Typing SVG" />
 
 <br><br>
 
