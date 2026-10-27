@@ -5,8 +5,8 @@
 
 <br>
 
-<!-- 2. Бегущая строка с вайбом ярого вайбкодера -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&pause=1500&color=C19B3B&center=true&vCenter=true&width=600&lines=YARIK+THE+VIBECODER;NEMKI+TOP;Winter+is+coming" alt="Typing SVG" />
+<!-- 2. Бегущая строка с кириллицей -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&pause=1500&color=C19B3B&center=true&vCenter=true&width=600&lines=ЯРИК+ТОП+ВАЙБКОДЕР;НЭМКИ+ТОП;ЗИМА+БЛИЗКО" alt="Typing SVG" />
 
 <br><br>
 
