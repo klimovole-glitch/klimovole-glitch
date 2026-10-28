@@ -6,7 +6,7 @@
 <br><br>
 
 <!-- 2. Бегущая строка ТОЧНО В ТВОЕМ ФОРМАТЕ (темно-красный цвет) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=YARIK+TOP+VAIBKODER+NEMKI"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=8B0000&center=true&vCenter=true&width=600&lines=YARIK+GEY+VAIBKODER+NEMKI"
   alt="Typing SVG" />
 
 <br><br>
