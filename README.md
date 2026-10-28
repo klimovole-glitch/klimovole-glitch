@@ -1,24 +1,26 @@
 <div align="center">
 
-<!-- Приветствие -->
-<h1>Привет, я Ярик 👋</h1>
-<h3>Python Developer | Vibe Coder</h3>
+<!-- 1. Черно-белый заголовок (без цветных градиентов) -->
+<h1>YARIK</h1>
+<h3><i>TOP VAIBKODER · NEMKI TOP</i></h3>
 
 <br>
 
-<!-- Анимированная строка -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=YARIK+TOP+VAIBKODER;NEMKI+TOP;Python+%2B+Windows;Welcome+to+my+profile!" alt="Typing SVG" />
+<!-- 2. Гифка Токийского гуля (Канеки, белые волосы) -->
+<img src="https://media.tenor.com/4rGj4rGj4rGAAAAi/ken-kaneki-tokyo-ghoul.gif" width="400" alt="Tokyo Ghoul" />
 
 <br><br>
 
-<!-- Стек технологий -->
-<img src="https://skillicons.dev/icons?i=py,windows,git,vscode,github" />
+<!-- 3. Бегущая строка (белая на черном) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=YARIK+TOP+VAIBKODER;NEMKI+TOP;PYTHON+%2B+WINDOWS;WINTER+IS+COMING" alt="Typing SVG" />
+
 <br><br>
 
-<!-- Ссылки -->
-<a href="https://github.com/klimovole-glitch">
-  <img src="https://img.shields.io/badge/GitHub-klimovole--glitch-181717?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
+<!-- 4. Технологии (черно-белые плашки) -->
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
 </div>
 
@@ -26,11 +28,12 @@
 
 ---
 
-### 🚀 Мои проекты
+### 🩸 Проект
 
 <div align="center">
   <a href="https://github.com/klimovole-glitch/KeyTranier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klimovole-glitch&repo=KeyTranier&theme=tokyonight&hide_border=true" />
+    <!-- Карточка проекта в черно-белой теме -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klimovole-glitch&repo=KeyTranier&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA" />
   </a>
 </div>
 
@@ -39,15 +42,14 @@
 ### 📊 Статистика
 
 <div align="center">
-  <!-- Карточка со статистикой -->
-  <img src="https://github-readme-stats.vercel.app/api?username=klimovole-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Статистика" height="165" />
+  <!-- Статистика: черный фон, белые цифры, серый текст -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=klimovole-glitch&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&count_private=true" />
   
-  <!-- Карточка с языками -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimovole-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Языки" height="165" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimovole-glitch&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&langs_count=6" />
 </div>
 
 <br>
 
 <div align="center">
-  <i>Python is my weapon of choice ⚔️</i>
+  <i>1000 - 7 = ?</i>
 </div>
