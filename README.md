@@ -1,62 +1,145 @@
+
+<!--
+  Replace YOUR_USERNAME with your GitHub username.
+  Replace all placeholders with your real information.
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:171717,100:444444&text=SYSTEM%20ONLINE&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=CODE%20%2F%20LEARN%20%2F%20EVOLVE&descAlignY=60&animation=twinkling&stroke=FFFFFF&strokeWidth=1" />
+  <!-- HERO BANNER -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,100:303030&text=HELLO%20WORLD&fontColor=FFFFFF&fontSize=55&fontAlignY=45&stroke=FFFFFF&strokeWidth=1"
+    width="100%"
+    alt="Hello World banner"
+  />
 
-<br/>
+  <h3>Student | Beginner Developer | Lifelong Learner</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=%3E+Initializing+developer+profile...;%3E+Python+%7C+Rust+%7C+C%2B%2B+%7C+Java;%3E+Learning.+Building.+Improving.;%3E+Access+granted+%5BBEGINNER%5D" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Learning+something+new+every+day;Turning+ideas+into+code;Building+my+first+projects"
+    alt="Animated typing introduction"
+  />
 
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FFFFFF?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/MODE-LEARNING-FFFFFF?style=for-the-badge&labelColor=000000" />
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-LEARNING-FFFFFF?style=for-the-badge&labelColor=111111" alt="Learning status" />
+    <img src="https://img.shields.io/badge/FOCUS-CONSISTENCY-FFFFFF?style=for-the-badge&labelColor=111111" alt="Consistency focus" />
+  </p>
 
 </div>
 
 ---
-<h2 align="center">
-  <code>&gt; tech_stack</code>
-</h2>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1500&pause=400&color=FFFFFF&center=true&vCenter=true&width=500&lines=Loading+programming+languages...;Python+%7C+Rust+%7C+C%2B%2B+%7C+Java;All+systems+ready+%5B4%2F4%5D" />
-
-<br/><br/>
-
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="75" alt="Python" /></a>
-&nbsp;&nbsp;
-<a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="75" alt="Rust" /></a>
-&nbsp;&nbsp;
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="75" alt="C++" /></a>
-&nbsp;&nbsp;
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="75" alt="Java" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PYTHON-LEARNING-FFFFFF?style=flat-square&labelColor=111111" />
-<img src="https://img.shields.io/badge/RUST-LEARNING-FFFFFF?style=flat-square&labelColor=111111" />
-<img src="https://img.shields.io/badge/C%2B%2B-LEARNING-FFFFFF?style=flat-square&labelColor=111111" />
-<img src="https://img.shields.io/badge/JAVA-LEARNING-FFFFFF?style=flat-square&labelColor=111111" />
-
-</div>
-
----
-<h2 align="center">
-  <code>&gt; terminal</code>
-</h2>
-
-<div align="center">
+## `> whoami`
 
 ```text
-┌──[ USER@GITHUB ]──────────────────────┐
-│                                       │
-│  > booting developer environment...   │
-│  > loading Python module       [OK]   │
-│  > loading Rust module         [OK]   │
-│  > loading C++ module          [OK]   │
-│  > loading Java module         [OK]   │
-│                                       │
-│  STATUS: LEARNING IN PROGRESS         │
-│  ACCESS: GRANTED                      │
-└───────────────────────────────────────┘
+Name       : [Your Name]
+Role       : Student / Beginner Developer
+Location   : [Your Country or City]
+Currently  : Learning and building projects
+Goal       : Become a better developer every day
+```
+
+- 🌱 I'm currently learning **programming and software development**.
+- 💻 I'm working on improving my coding skills through practice.
+- 🔍 I enjoy exploring new technologies and solving problems.
+- 🎯 My goal is to build useful projects and keep growing.
+- ⚡ Fun fact: Every expert was once a beginner.
+
+---
+
+## `> tech_stack`
+
+<!-- Keep only the technologies you actually use. -->
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Technology icons" />
+
+</div>
+
+---
+
+## `> github_stats`
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github"
+    height="165"
+    alt="GitHub statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"
+    height="165"
+    alt="Most used programming languages"
+  />
+
+  <br />
+
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=808080&currStreakNum=FFFFFF&sideNums=FFFFFF"
+    width="70%"
+    alt="GitHub contribution streak"
+  />
+
+</div>
+
+---
+
+## `> featured_projects`
+
+<!-- Replace these placeholders with links to your real repositories. -->
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Project 01</h3>
+      <p>[Project name and short description]</p>
+      <p><code>[Technology]</code> <code>[Technology]</code></p>
+      <a href="https://github.com/YOUR_USERNAME">View repository →</a>
+    </td>
+    <td width="50%">
+      <h3>Project 02</h3>
+      <p>[Project name and short description]</p>
+      <p><code>[Technology]</code> <code>[Technology]</code></p>
+      <a href="https://github.com/YOUR_USERNAME">View repository →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `> connect_with_me`
+
+<div align="center">
+
+  <!-- Replace placeholders with your real profile links. -->
+
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+  </a>
+
+  <!-- Add a LinkedIn or portfolio badge when you have a profile. -->
+
+  <p>
+    📫 Contact: [Your email or preferred contact method]
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:303030,100:000000&height=2&section=footer" width="100%" alt="" />
+
+  <i>"First, solve the problem. Then, write the code."</i>
+
+  <br /><br />
+
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=000000&label=PROFILE+VIEWS" alt="Profile views" />
+
+  <p><sub>Building in public. Learning every day. 🖤</sub></p>
+
+</div>
