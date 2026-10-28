@@ -6,8 +6,8 @@
 
 <br>
 
-<!-- Гифка Токийского гуля -->
-<img src="https://media.tenor.com/4rGj4rGj4rGAAAAi/ken-kaneki-tokyo-ghoul.gif" width="400" alt="Tokyo Ghoul" />
+<!-- Гифка Токийского гуля (Канеки в маске с цепями) -->
+<img src="https://media.tenor.com/tO8tP-rK8tAAAAAC/what.gif" width="400" alt="Tokyo Ghoul" />
 
 <br><br>
 
