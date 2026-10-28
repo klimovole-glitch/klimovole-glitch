@@ -13,7 +13,7 @@
     alt="Hello World banner"
   />
 
-  <h3>Student | Beginner Developer | Lifelong Learner</h3>
+  <h3>| Student |</h3>
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Learning+something+new+every+day;Turning+ideas+into+code;Building+my+first+projects"
@@ -32,11 +32,10 @@
 ## `> whoami`
 
 ```text
-Name       : [Your Name]
-Role       : Student / Beginner Developer
-Location   : [Your Country or City]
-Currently  : Learning and building projects
-Goal       : Become a better developer every day
+Name       : kpji
+Role       : Student 
+Currently  : I’m not doing anything.
+Goal       : digrade
 ```
 
 - 🌱 I'm currently learning **programming and software development**.
