@@ -1,26 +1,26 @@
 <div align="center">
 
-<!-- Заголовок -->
-<h1>ERROR 404: HUMANITY NOT FOUND</h1>
-<h3><i>Python · Windows · System Override</i></h3>
+<!-- 1. Заголовок -->
+<h1>YARIK</h1>
+<h3><i>Dark Fantasy · Python · Code & Magic</i></h3>
 
 <br>
 
-<!-- Гифка Токийского гуля (Канеки в маске с цепями) -->
-<img src="https://media.tenor.com/tO8tP-rK8tAAAAAC/what.gif" width="400" alt="Tokyo Ghoul" />
+<!-- 2. Арт в стиле эльфийского фэнтези (под аватарку) -->
+<img src="https://images.unsplash.com/photo-1533287341214-2503475e24c9?q=80&w=600&auto=format&fit=crop" width="500" style="border-radius: 10px; border: 2px solid #4a3b5c;" alt="Elven Fantasy" />
 
 <br><br>
 
-<!-- Бегущая строка -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=What%27s+1000-7%3F;Code+is+my+mask;I+am+a+ghoul;Coffee+%3E+Blood" alt="Typing SVG" />
+<!-- 3. Бегущая строка -->
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&pause=1200&color=A78BFA&background=000000&center=true&vCenter=true&width=500&lines=Summoning+Python+spells...;The+North+remembers;Dark+magic+in+code;YARIK+KUPIL+PODPISKU+NA+CLAUDE" alt="Typing SVG" />
 
 <br><br>
 
-<!-- Технологии -->
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<!-- 4. Технологии (в стиле тёмного фэнтези) -->
+<img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Windows-1a1a1a?style=for-the-badge&logo=windows&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/VS_Code-1a1a1a?style=for-the-badge&logo=visual%20studio%20code&logoColor=A78BFA" />
 
 </div>
 
@@ -28,11 +28,12 @@
 
 ---
 
-### 🩸 Проект
+### 🩸 Мои проекты
 
 <div align="center">
   <a href="https://github.com/klimovole-glitch/KeyTranier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klimovole-glitch&repo=KeyTranier&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA" />
+    <!-- Карточка проекта в фиолетово-тёмной теме -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=klimovole-glitch&repo=KeyTranier&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=888888" />
   </a>
 </div>
 
@@ -41,13 +42,13 @@
 ### 📊 Статистика
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=klimovole-glitch&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=klimovole-glitch&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&icon_color=A78BFA&text_color=888888&count_private=true" />
   
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimovole-glitch&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klimovole-glitch&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=A78BFA&text_color=888888&langs_count=6" />
 </div>
 
 <br>
 
 <div align="center">
-  <i>Human or ghoul — does it matter? Code doesn't judge.</i>
+  <i>Code is the modern magic. And I'm still learning the spells...</i>
 </div>
