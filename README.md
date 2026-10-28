@@ -7,7 +7,7 @@
 <br>
 
 <!-- 2. Арт в стиле эльфийского фэнтези -->
-<img src="https://images.unsplash.com/photo-1533287341214-2503475e24c9?q=80&w=600&auto=format&fit=crop" width="500" style="border-radius: 10px; border: 2px solid #4a3b5c;" alt="Elven Fantasy" />
+<img src="https://media.tenor.com/8B6_G4a1c2AAAAAC/forest-night.gif" width="500" style="border-radius: 10px; border: 2px solid #4a3b5c;" alt="Dark Forest" />
 
 <br><br>
 
