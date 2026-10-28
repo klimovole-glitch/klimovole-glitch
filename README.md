@@ -42,3 +42,21 @@
 </div>
 
 ---
+<h2 align="center">
+  <code>&gt; terminal</code>
+</h2>
+
+<div align="center">
+
+```text
+┌──[ USER@GITHUB ]──────────────────────┐
+│                                       │
+│  > booting developer environment...   │
+│  > loading Python module       [OK]   │
+│  > loading Rust module         [OK]   │
+│  > loading C++ module          [OK]   │
+│  > loading Java module         [OK]   │
+│                                       │
+│  STATUS: LEARNING IN PROGRESS         │
+│  ACCESS: GRANTED                      │
+└───────────────────────────────────────┘
