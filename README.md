@@ -31,20 +31,7 @@
 
 ## `> whoami`
 
-```text
-Name       : kpji
-Role       : Student 
-Currently  : I’m not doing anything.
-Goal       : digrade
-```
 
-- 🌱 I'm currently learning **programming and software development**.
-- 💻 I'm working on improving my coding skills through practice.
-- 🔍 I enjoy exploring new technologies and solving problems.
-- 🎯 My goal is to build useful projects and keep growing.
-- ⚡ Fun fact: Every expert was once a beginner.
-
----
 
 ## `> tech_stack`
 
