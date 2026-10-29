@@ -46,19 +46,7 @@
 
 ## `> github_stats`
 
-<div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&rank_icon=github"
-    height="165"
-    alt="GitHub statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9"
-    height="165"
-    alt="Most used programming languages"
-  />
 
   <br />
 
