@@ -50,12 +50,12 @@
 
   <br />
 
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=808080&currStreakNum=FFFFFF&sideNums=FFFFFF"
-    width="70%"
-    alt="GitHub contribution streak"
-  />
-
+   <img
+     src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=808080&currStreakNum=FFFFFF&sideNums=FFFFFF"
+     width="70%"
+     alt="GitHub contribution streak"
+   />
+ 
 </div>
 
 ---
